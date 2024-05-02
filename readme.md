@@ -1,7 +1,7 @@
 # biz_board
 ## url詳細
 ### twitter https://twitter.com/ayataka429
-- twitterユーザへのリンク。単純なリンク形式なためtwitterアプリではなくブラウザが起動してしまう。twitterアプリ起動用のデータやリダイレクトを含むリンクを書き込むことですることでtwitterアプリを自動で開くことも可能だが、端末によって挙動が異なることが多いため妥協。
+- twitterユーザページへのリンク。単純なリンク形式なためtwitterアプリではなくブラウザが起動してしまう。twitterアプリ起動用のデータやリダイレクトを含むリンクを書き込むことでtwitterアプリを自動で開くことも可能だが、端末によって挙動が異なることが多いため妥協。
 ### niconico https://sp.nicovideo.jp/user/125381440
 - niconicoユーザページへのリンク
 ### github https://github.com/a-yataka
